@@ -1,2 +1,2 @@
 ﻿# medical-ecommerce-website
- ![](videos/med.mp4)
+ ![sample text](videos/med.mp4)
